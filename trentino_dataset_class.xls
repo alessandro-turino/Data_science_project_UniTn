@@ -1,4 +1,4 @@
-cellId,day,fascia_giorno,UBIC_CELL,n_linee,energy,temp_min,temp_max,temp_mean,tweet_count,precip_mm,SET,DEC,LU,MA,ME,GI,VE,SA,DO,TargetReg,TargetClas
+cellId,day,fascia_giorno,UBIC_CELL,n_linee,energy,temp_min,temp_max,temp_mean,tweet_count,precip_mm,NOV,DEC,LU,MA,ME,GI,VE,SA,DO,TargetReg,TargetClas
 4381,1,1,39,1,1.2390654912665013,11.9,17.5,15.665909090909093,0,0.0,1,0,0,0,0,0,1,0,0,1.2479010202916931,0
 4381,1,0,39,1,1.3801102783766646,13.1,14.9,13.849999999999998,0,0.0,1,0,0,0,0,0,1,0,0,1.3802586638554217,0
 4381,2,1,39,1,1.2479010202916931,11.0,16.0,13.836363636363638,0,0.6000000000000001,1,0,0,0,0,0,0,1,0,1.1956971821352396,0
